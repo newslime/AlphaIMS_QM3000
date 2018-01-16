@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Setting>
+  <Font>14</Font>
+  <Smtp>
+    <Client>system@zktech.com.cn</Client>
+    <ToMail>lijun_liu@zktech.com.cn</ToMail>
+  </Smtp>
+  <FilePath>D:\Log</FilePath>
+</Setting>

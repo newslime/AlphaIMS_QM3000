@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Setting>
+  <Smtp>
+    <Client>system@zktech.com.cn</Client>
+    <ToMail>fefefe@gmail.com</ToMail>
+  </Smtp>
+  <FilePath>D:\Record</FilePath>
+</Setting>

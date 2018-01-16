@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Tables>
+  <Products>
+    <Station>newslime<Model>alpha<Customer>zkt<Rows>20</Rows><Columns>10</Columns><column>0<name>A</name><formula></formula><min>0</min><max>1000</max><readvalue>0</readvalue></column><column>1<name>B</name><formula></formula><min>0</min><max>1000</max><readvalue>0</readvalue></column><column>2<name>C</name><formula></formula><min>0</min><max>1000</max><readvalue>0</readvalue></column><column>3<name>D</name><formula></formula><min>0</min><max>1000</max><readvalue>0</readvalue></column><column>4<name>E</name><formula></formula><min>0</min><max>1000</max><readvalue>0</readvalue></column><column>5<name>F</name><formula></formula><min>0</min><max>1000</max><readvalue>0</readvalue></column><column>6<name>G</name><formula></formula><min>0</min><max>1000</max><readvalue>0</readvalue></column><column>7<name>H</name><formula></formula><min>0</min><max>1000</max><readvalue>0</readvalue></column><column>8<name>I</name><formula></formula><min>0</min><max>1000</max><readvalue>0</readvalue></column><column>9<name>J</name><formula></formula><min>0</min><max>1000</max><readvalue>0</readvalue></column></Customer></Model></Station>
+  </Products>
+</Tables>
